@@ -16,7 +16,7 @@ import java.util.*
 class RollingNumberTextView : TextView {
 
     val TAG = "RollingNumberTextView"
-    private val INTERVAL = 80L
+    private val INTERVAL = 20L
     private val MODEL_TEXT = "0123456789"
     private var charWidth: Float = 0f
     // the real number we need to draw
