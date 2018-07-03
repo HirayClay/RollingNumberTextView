@@ -3,4 +3,4 @@
 
 # GIF
 
-<img width="583px" height=“473px” src="static/behaviorgif.gif"></img>
+<img width="583px" height=“473px” src="static/GIF.gif"></img>
